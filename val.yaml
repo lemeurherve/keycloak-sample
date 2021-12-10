@@ -1,0 +1,9 @@
+secrets:
+  db:
+      data:
+          DB_USER: YWRtaW4=
+          DB_PASSWORD: cGFzc3dvcmQ=
+  http:
+      data:
+          KEYCLOAK_USER: YWRtaW4=
+          KEYCLOAK_PASSWORD: cGFzc3dvcmQ=
